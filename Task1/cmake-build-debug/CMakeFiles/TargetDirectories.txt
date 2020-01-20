@@ -1,0 +1,3 @@
+/mnt/c/Users/Oleg/CLionProjects/Basic/Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Oleg/CLionProjects/Basic/Task1/cmake-build-debug/CMakeFiles/Task1.dir
+/mnt/c/Users/Oleg/CLionProjects/Basic/Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
